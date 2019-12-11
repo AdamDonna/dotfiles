@@ -20,3 +20,6 @@
 [Chose boring tech](http://boringtechnology.club/)
 
 [Building things to be deployed and scale](https://www.12factor.net/)
+
+### Design/Architecture
+[12factor App Method](https://www.12factor.net/)
