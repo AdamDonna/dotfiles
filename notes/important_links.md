@@ -26,6 +26,7 @@
 
 ### Design / Architecture
 [12factor App Method](https://www.12factor.net/)
+
 [Testable Code](https://blog.soshace.com/follow-these-guidelines-to-write-testable-code-that-can-scale-with-examples/)
 
 
