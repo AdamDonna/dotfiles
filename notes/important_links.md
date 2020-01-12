@@ -30,5 +30,9 @@
 [Testable Code](https://blog.soshace.com/follow-these-guidelines-to-write-testable-code-that-can-scale-with-examples/)
 
 
+### Django
+
+[Query Optimisation Guide](https://github.com/jarshwah/optimising-django-queries)
+
 ### Jobs / Work
 [Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
