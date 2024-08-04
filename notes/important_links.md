@@ -29,6 +29,8 @@
 
 [Testable Code](https://blog.soshace.com/follow-these-guidelines-to-write-testable-code-that-can-scale-with-examples/)
 
+[How complex systems fail](https://how.complexsystems.fail/)
+
 
 ### Django
 
